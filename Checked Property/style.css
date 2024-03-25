@@ -1,0 +1,20 @@
+body{
+   font-size: 20px;
+   color: red;
+   font-weight: 700;
+}
+.mySubmit{
+    color:antiquewhite;
+    background-color: black;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.mySubmit:hover{
+    color:darkgoldenrod;
+}
+p{
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: bolder;
+    color: black;
+}

@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    height: 90vh;
+}
+input{
+    min-width: 30%;
+    text-align: center;
+    border: 2px solid hsla(0, 0%, 0.8);
+    font-size: 2em;
+    border-radius: 5px;
+}
+button{
+    font-family: monospace;
+    font-size: 1em;
+    padding: 10px 15px;
+    background-color:hsl(0, 100%, 55%);
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}

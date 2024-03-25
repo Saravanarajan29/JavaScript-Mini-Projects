@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+.myLabel {
+    font-size: 30px;
+    display: block;
+}
+#myText {
+    width: 20%;
+    border-radius: 5px;
+    height: 20px;
+}
+.myButton {
+    font-size: 15px;
+    margin: 20px;
+    padding: 5px 10px;
+}
